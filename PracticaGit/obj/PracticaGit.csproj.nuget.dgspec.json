@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Raúl\\Documents\\U\\2021\\ciclo 1\\POO\\PracticaGit\\PracticaGit\\PracticaGit.csproj": {}
+    "D:\\downloaD\\POO\\actividad git\\Allstars_POO012021-P\\PracticaGit\\PracticaGit.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Raúl\\Documents\\U\\2021\\ciclo 1\\POO\\PracticaGit\\PracticaGit\\PracticaGit.csproj": {
+    "D:\\downloaD\\POO\\actividad git\\Allstars_POO012021-P\\PracticaGit\\PracticaGit.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Raúl\\Documents\\U\\2021\\ciclo 1\\POO\\PracticaGit\\PracticaGit\\PracticaGit.csproj",
+        "projectUniqueName": "D:\\downloaD\\POO\\actividad git\\Allstars_POO012021-P\\PracticaGit\\PracticaGit.csproj",
         "projectName": "PracticaGit",
-        "projectPath": "C:\\Users\\Raúl\\Documents\\U\\2021\\ciclo 1\\POO\\PracticaGit\\PracticaGit\\PracticaGit.csproj",
-        "packagesPath": "C:\\Users\\Raúl\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Raúl\\Documents\\U\\2021\\ciclo 1\\POO\\PracticaGit\\PracticaGit\\obj\\",
+        "projectPath": "D:\\downloaD\\POO\\actividad git\\Allstars_POO012021-P\\PracticaGit\\PracticaGit.csproj",
+        "packagesPath": "C:\\Users\\DIEGO\\.nuget\\packages\\",
+        "outputPath": "D:\\downloaD\\POO\\actividad git\\Allstars_POO012021-P\\PracticaGit\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Raúl\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\DIEGO\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
