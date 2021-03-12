@@ -14,14 +14,14 @@ namespace Primer
             Console.WriteLine("Inserte un valor para b:");
             b = Int32.Parse(Console.ReadLine());
             //Imprimemos y llamamos el metodo con el cual sumamos las variables
-            Console.WriteLine($"Sumar {a} + {b} es igual a {AddNumbers(a, b)} ");
+            Console.WriteLine($"Multiplicar {a} x {b} es igual a {AddNumbers(a, b)} ");
         }
         
         //Metodo para sumar las variables 
         public static int AddNumbers(int a, int b)
         {
 
-            return a+b;
+            return a*b;
         }
     }
 }
