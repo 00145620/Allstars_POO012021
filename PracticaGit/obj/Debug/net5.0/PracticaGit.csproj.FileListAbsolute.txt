@@ -1,0 +1,16 @@
+C:\Users\Raúl\Documents\U\2021\ciclo 1\POO\PracticaGit\PracticaGit\bin\Debug\net5.0\PracticaGit.exe
+C:\Users\Raúl\Documents\U\2021\ciclo 1\POO\PracticaGit\PracticaGit\bin\Debug\net5.0\PracticaGit.deps.json
+C:\Users\Raúl\Documents\U\2021\ciclo 1\POO\PracticaGit\PracticaGit\bin\Debug\net5.0\PracticaGit.runtimeconfig.json
+C:\Users\Raúl\Documents\U\2021\ciclo 1\POO\PracticaGit\PracticaGit\bin\Debug\net5.0\PracticaGit.runtimeconfig.dev.json
+C:\Users\Raúl\Documents\U\2021\ciclo 1\POO\PracticaGit\PracticaGit\bin\Debug\net5.0\PracticaGit.dll
+C:\Users\Raúl\Documents\U\2021\ciclo 1\POO\PracticaGit\PracticaGit\bin\Debug\net5.0\ref\PracticaGit.dll
+C:\Users\Raúl\Documents\U\2021\ciclo 1\POO\PracticaGit\PracticaGit\bin\Debug\net5.0\PracticaGit.pdb
+C:\Users\Raúl\Documents\U\2021\ciclo 1\POO\PracticaGit\PracticaGit\obj\Debug\net5.0\PracticaGit.csprojAssemblyReference.cache
+C:\Users\Raúl\Documents\U\2021\ciclo 1\POO\PracticaGit\PracticaGit\obj\Debug\net5.0\PracticaGit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Raúl\Documents\U\2021\ciclo 1\POO\PracticaGit\PracticaGit\obj\Debug\net5.0\PracticaGit.AssemblyInfoInputs.cache
+C:\Users\Raúl\Documents\U\2021\ciclo 1\POO\PracticaGit\PracticaGit\obj\Debug\net5.0\PracticaGit.AssemblyInfo.cs
+C:\Users\Raúl\Documents\U\2021\ciclo 1\POO\PracticaGit\PracticaGit\obj\Debug\net5.0\PracticaGit.csproj.CoreCompileInputs.cache
+C:\Users\Raúl\Documents\U\2021\ciclo 1\POO\PracticaGit\PracticaGit\obj\Debug\net5.0\PracticaGit.dll
+C:\Users\Raúl\Documents\U\2021\ciclo 1\POO\PracticaGit\PracticaGit\obj\Debug\net5.0\ref\PracticaGit.dll
+C:\Users\Raúl\Documents\U\2021\ciclo 1\POO\PracticaGit\PracticaGit\obj\Debug\net5.0\PracticaGit.pdb
+C:\Users\Raúl\Documents\U\2021\ciclo 1\POO\PracticaGit\PracticaGit\obj\Debug\net5.0\PracticaGit.genruntimeconfig.cache
